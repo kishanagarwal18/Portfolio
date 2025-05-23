@@ -39,18 +39,17 @@ const AboutPage = () => {
             About Me
           </h2>
           <div className="prose prose-lg dark:prose-invert">
-            <p className="text-dark-600 dark:text-light-400">
-              I'm a Full Stack Developer with a passion for creating beautiful,
-              functional, and user-friendly web applications. With 5 years of
-              experience in the industry, I've worked on various projects ranging
-              from small business websites to large-scale enterprise applications.
-            </p>
-            <p className="text-dark-600 dark:text-light-400">
-              My journey in web development started during my college years, and
-              since then, I've been constantly learning and adapting to new
-              technologies and best practices in the field.
-            </p>
-          </div>
+           <p className="text-dark-600 dark:text-light-400">
+             I’m a full-stack developer, AI whisperer, and cloud-native creator—currently hacking the future at Ramaiah Institute of Technology. From designing pixel-perfect interfaces to training neural networks, I blend code, creativity, and caffeine to build experiences that matter.
+          </p>
+          <p className="text-dark-600 dark:text-light-400">
+             My work lives at the intersection of FinTech and AI/ML—think personal finance apps that track every rupee, and deep learning models that crack cryptographic patterns. I’ve built disaster relief systems powered by crowdsourced data, and AI bots smart enough to predict market trends (or at least try!). If it’s ambitious, impactful, and slightly chaotic—I’m in.
+         </p>
+         <p className="text-dark-600 dark:text-light-400">
+            Beyond the code, I’m all about community, creativity, and constant growth. Whether it’s brainstorming with fellow devs at hackathons, leading college clubs, or learning the latest in GenAI—I’m here to build things that push boundaries and actually help people. Let’s connect and create something legendary.
+         </p>
+        </div>
+          
         </section>
 
         {/* Skills Section */}
