@@ -39,18 +39,16 @@ const AboutPage = () => {
             About Me
           </h2>
           <div className="prose prose-lg dark:prose-invert">
-  <p className="text-dark-600 dark:text-light-400">
-    I’m a full-stack developer and AI/ML enthusiast—crafting sleek UIs, smart systems, and cloud-powered tools that solve real problems (fueled by caffeine, of course).
-  </p>
-  <p className="text-dark-600 dark:text-light-400">
-    I thrive where FinTech meets AI—building budget apps, cracking cryptography with deep learning, and experimenting with models that try to outsmart the markets.
-  </p>
-  <p className="text-dark-600 dark:text-light-400">
-    Always learning, always building. If it’s bold, useful, and a bit chaotic—I’m in.
-  </p>
-</div>
-
-          
+           <p className="text-dark-600 dark:text-light-400">
+              I’m a full-stack developer and AI/ML enthusiast—crafting sleek UIs, smart systems, and cloud-powered tools that solve real problems (fueled by caffeine, of course).
+           </p>
+          <p className="text-dark-600 dark:text-light-400">
+             I thrive where FinTech meets AI—building budget apps, cracking cryptography with deep learning, and experimenting with models that try to outsmart the markets.
+          </p>
+          <p className="text-dark-600 dark:text-light-400">
+             Always learning, always building. If it’s bold, useful, and a bit chaotic—I’m in.
+          </p>
+         </div> 
         </section>
 
         {/* Skills Section */}
