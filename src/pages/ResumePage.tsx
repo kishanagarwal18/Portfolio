@@ -30,7 +30,7 @@ const ResumePage = () => {
               <div className="absolute w-4 h-4 bg-gold-500 rounded-full -left-[9px] top-0"></div>
               <div className="space-y-2">
                 <h3 className="text-xl font-semibold text-dark-900 dark:text-light-100">
-                  M S Ramaiah Institute of Technology, Bangaluru
+                  M S Ramaiah Institute of Technology, Bengaluru
                 </h3>
                 <p className="text-gold-500">  2022 - present</p>
                 <p className="text-dark-600 dark:text-light-400">
